@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eda</h1>
+<h1 align="center">Hi 👋, I'm Eda AYDEMİR</h1>
 <h3 align="center">I'm an aspiring Game Developer who is passionate about creating engaging and fun gaming experiences. I have experience using Unity and C#, and I'm constantly learning and improving in every aspect of game development.</h3>
 
 - 🔭 I’m currently working on **enhancing my skills through various Unity projects, including small game prototypes.**  
