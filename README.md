@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Eda</h1>
 <h3 align="center">I'm an aspiring Game Developer who is passionate about creating engaging and fun gaming experiences. I have experience using Unity and C#, and I'm constantly learning and improving in every aspect of game development.</h3>
 
-- 🔭 I’m currently working on **improving my skills by creating small game prototypes in Unity.**
+- 🔭 I’m currently working on **enhancing my skills through various Unity projects, including small game prototypes.**  
+- 🌟 **Current Projects & Learning**  
+  - Building small game prototypes to experiment with different gameplay mechanics.  
+  - Exploring AI-driven NPC behavior to create more dynamic game interactions.  
+  - Working on a platformer game to deepen my understanding of game physics and control systems.
+
+- 🎯 **What I'm Looking For**  
+  - Opportunities to collaborate with fellow developers or contribute to open-source game development projects.  
+  - Expanding my knowledge of game optimization techniques and visual effects.  
+  - Learning advanced Unity techniques and delving deeper into procedural content generation.
+
+
 
 - 📫 How to reach me **edaaydemir200081@gmail.com**
 
